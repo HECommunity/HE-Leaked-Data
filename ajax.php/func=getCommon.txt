@@ -1,0 +1,5 @@
+Request:
+func=getCommon
+
+Response:
+{"status":"OK","redirect":"","msg":"[{\"online\":\"215\",\"unread\":\"54\",\"mission_complete\":\"0\",\"finances\":\"129,587,698\",\"unread_title\":\"Mensagens novas.\",\"unread_text\":\"Voc\u00ea tem 54 mensagens n\u00e3o lidas.\",\"online_title\":\"215 jogadores online\",\"finances_title\":\"Finan\u00e7as\"}]"}

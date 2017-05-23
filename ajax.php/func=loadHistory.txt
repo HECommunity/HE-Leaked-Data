@@ -1,0 +1,5 @@
+Request:
+func=loadHistory
+
+Response:
+{"status":"OK","redirect":"","msg":"[{\"ip\":\"1.2.3.4\",\"time\":\"2017-05-23T18:19:33\"}]"}

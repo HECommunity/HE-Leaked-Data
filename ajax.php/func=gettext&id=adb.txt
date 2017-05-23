@@ -1,0 +1,5 @@
+Request:
+func=gettext&id=adb
+
+Response:
+{"status":"OK","redirect":"","msg":"[{\"title\":\"Hey, looks like you are using AdBlock. <br\/>We hate ads too, and we totally support your right to not be tracked! However, ads keep this game free.<br\/> Please, consider disabling AdBlock for this site or purchasing a <a href=\\\"premium\\\">premium account<\/a> to get rid of them.<br\/>\",\"text\":\" \",\"btn\":\" \" }]"}

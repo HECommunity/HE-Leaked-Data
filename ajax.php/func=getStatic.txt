@@ -1,0 +1,5 @@
+Request:
+func=getStatic
+
+Response:
+{"status":"OK","redirect":"","msg":"[{\"ip\":\"203.72.122.216\",\"user\":\"BlueHex_\",\"reputation\":\"78,377\",\"rank\":\"474\",\"rep_title\":\"Reputa\u00e7\u00e3o\",\"rank_title\":\"Ranking\"}]"}
